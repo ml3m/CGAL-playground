@@ -1,5 +1,9 @@
 # [Environment Setup 11] Build CGAL-based programs using CMake
 
+## Preview (Torus)
+<p align="center"><imgsrc="./Torus.png" /></a></p>
+
+
 * Make a new directory for CGAL and navigate to it
 
 `$ mkdir cgal`
